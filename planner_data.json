@@ -1,0 +1,586 @@
+{
+  "hours": 2.0,
+  "subjects": [
+    {
+      "name": "Python",
+      "exam": "2026-10-15"
+    },
+    {
+      "name": "Mathematics",
+      "exam": "2026-10-19"
+    },
+    {
+      "name": "C++",
+      "exam": "2026-10-23"
+    },
+    {
+      "name": "Physics",
+      "exam": "2026-10-27"
+    }
+  ],
+  "plan": [
+    {
+      "id": "2026-10-07-Python",
+      "date": "2026-10-07",
+      "subject": "Python",
+      "exam": "2026-10-15",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Learn & summarize",
+      "color": "green"
+    },
+    {
+      "id": "2026-10-07-Mathematics",
+      "date": "2026-10-07",
+      "subject": "Mathematics",
+      "exam": "2026-10-19",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Learn & summarize",
+      "color": "orange"
+    },
+    {
+      "id": "2026-10-07-C++",
+      "date": "2026-10-07",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 30,
+      "start": "11:00",
+      "end": "11:30",
+      "topic": "Learn & summarize",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-08-Python",
+      "date": "2026-10-08",
+      "subject": "Python",
+      "exam": "2026-10-15",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Active recall",
+      "color": "green"
+    },
+    {
+      "id": "2026-10-08-Mathematics",
+      "date": "2026-10-08",
+      "subject": "Mathematics",
+      "exam": "2026-10-19",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Active recall",
+      "color": "orange"
+    },
+    {
+      "id": "2026-10-08-C++",
+      "date": "2026-10-08",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 30,
+      "start": "11:00",
+      "end": "11:30",
+      "topic": "Active recall",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-09-Python",
+      "date": "2026-10-09",
+      "subject": "Python",
+      "exam": "2026-10-15",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Practice questions",
+      "color": "green"
+    },
+    {
+      "id": "2026-10-09-Mathematics",
+      "date": "2026-10-09",
+      "subject": "Mathematics",
+      "exam": "2026-10-19",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Practice questions",
+      "color": "orange"
+    },
+    {
+      "id": "2026-10-09-C++",
+      "date": "2026-10-09",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 30,
+      "start": "11:00",
+      "end": "11:30",
+      "topic": "Practice questions",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-10-Python",
+      "date": "2026-10-10",
+      "subject": "Python",
+      "exam": "2026-10-15",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Learn & summarize",
+      "color": "green"
+    },
+    {
+      "id": "2026-10-10-Mathematics",
+      "date": "2026-10-10",
+      "subject": "Mathematics",
+      "exam": "2026-10-19",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Learn & summarize",
+      "color": "orange"
+    },
+    {
+      "id": "2026-10-10-C++",
+      "date": "2026-10-10",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 30,
+      "start": "11:00",
+      "end": "11:30",
+      "topic": "Learn & summarize",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-11-Python",
+      "date": "2026-10-11",
+      "subject": "Python",
+      "exam": "2026-10-15",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Active recall",
+      "color": "green"
+    },
+    {
+      "id": "2026-10-11-Mathematics",
+      "date": "2026-10-11",
+      "subject": "Mathematics",
+      "exam": "2026-10-19",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Active recall",
+      "color": "orange"
+    },
+    {
+      "id": "2026-10-11-C++",
+      "date": "2026-10-11",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 30,
+      "start": "11:00",
+      "end": "11:30",
+      "topic": "Active recall",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-12-Python",
+      "date": "2026-10-12",
+      "subject": "Python",
+      "exam": "2026-10-15",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Practice questions",
+      "color": "green"
+    },
+    {
+      "id": "2026-10-12-Mathematics",
+      "date": "2026-10-12",
+      "subject": "Mathematics",
+      "exam": "2026-10-19",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Practice questions",
+      "color": "orange"
+    },
+    {
+      "id": "2026-10-12-C++",
+      "date": "2026-10-12",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 30,
+      "start": "11:00",
+      "end": "11:30",
+      "topic": "Practice questions",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-13-Python",
+      "date": "2026-10-13",
+      "subject": "Python",
+      "exam": "2026-10-15",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Learn & summarize",
+      "color": "green"
+    },
+    {
+      "id": "2026-10-13-Mathematics",
+      "date": "2026-10-13",
+      "subject": "Mathematics",
+      "exam": "2026-10-19",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Learn & summarize",
+      "color": "orange"
+    },
+    {
+      "id": "2026-10-13-C++",
+      "date": "2026-10-13",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 30,
+      "start": "11:00",
+      "end": "11:30",
+      "topic": "Learn & summarize",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-14-Python",
+      "date": "2026-10-14",
+      "subject": "Python",
+      "exam": "2026-10-15",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Active recall",
+      "color": "green"
+    },
+    {
+      "id": "2026-10-14-Mathematics",
+      "date": "2026-10-14",
+      "subject": "Mathematics",
+      "exam": "2026-10-19",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Active recall",
+      "color": "orange"
+    },
+    {
+      "id": "2026-10-14-C++",
+      "date": "2026-10-14",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 30,
+      "start": "11:00",
+      "end": "11:30",
+      "topic": "Active recall",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-15-Python",
+      "date": "2026-10-15",
+      "subject": "Python",
+      "exam": "2026-10-15",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Practice questions",
+      "color": "green"
+    },
+    {
+      "id": "2026-10-15-Mathematics",
+      "date": "2026-10-15",
+      "subject": "Mathematics",
+      "exam": "2026-10-19",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Practice questions",
+      "color": "orange"
+    },
+    {
+      "id": "2026-10-15-C++",
+      "date": "2026-10-15",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 30,
+      "start": "11:00",
+      "end": "11:30",
+      "topic": "Practice questions",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-16-Mathematics",
+      "date": "2026-10-16",
+      "subject": "Mathematics",
+      "exam": "2026-10-19",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Learn & summarize",
+      "color": "orange"
+    },
+    {
+      "id": "2026-10-16-C++",
+      "date": "2026-10-16",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Learn & summarize",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-16-Physics",
+      "date": "2026-10-16",
+      "subject": "Physics",
+      "exam": "2026-10-27",
+      "minutes": 30,
+      "start": "11:00",
+      "end": "11:30",
+      "topic": "Learn & summarize",
+      "color": "yellow"
+    },
+    {
+      "id": "2026-10-17-Mathematics",
+      "date": "2026-10-17",
+      "subject": "Mathematics",
+      "exam": "2026-10-19",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Active recall",
+      "color": "orange"
+    },
+    {
+      "id": "2026-10-17-C++",
+      "date": "2026-10-17",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Active recall",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-17-Physics",
+      "date": "2026-10-17",
+      "subject": "Physics",
+      "exam": "2026-10-27",
+      "minutes": 30,
+      "start": "11:00",
+      "end": "11:30",
+      "topic": "Active recall",
+      "color": "yellow"
+    },
+    {
+      "id": "2026-10-18-Mathematics",
+      "date": "2026-10-18",
+      "subject": "Mathematics",
+      "exam": "2026-10-19",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Practice questions",
+      "color": "orange"
+    },
+    {
+      "id": "2026-10-18-C++",
+      "date": "2026-10-18",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Practice questions",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-18-Physics",
+      "date": "2026-10-18",
+      "subject": "Physics",
+      "exam": "2026-10-27",
+      "minutes": 30,
+      "start": "11:00",
+      "end": "11:30",
+      "topic": "Practice questions",
+      "color": "yellow"
+    },
+    {
+      "id": "2026-10-19-Mathematics",
+      "date": "2026-10-19",
+      "subject": "Mathematics",
+      "exam": "2026-10-19",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Learn & summarize",
+      "color": "orange"
+    },
+    {
+      "id": "2026-10-19-C++",
+      "date": "2026-10-19",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Learn & summarize",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-19-Physics",
+      "date": "2026-10-19",
+      "subject": "Physics",
+      "exam": "2026-10-27",
+      "minutes": 30,
+      "start": "11:00",
+      "end": "11:30",
+      "topic": "Learn & summarize",
+      "color": "yellow"
+    },
+    {
+      "id": "2026-10-20-C++",
+      "date": "2026-10-20",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Active recall",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-20-Physics",
+      "date": "2026-10-20",
+      "subject": "Physics",
+      "exam": "2026-10-27",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Active recall",
+      "color": "yellow"
+    },
+    {
+      "id": "2026-10-21-C++",
+      "date": "2026-10-21",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Practice questions",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-21-Physics",
+      "date": "2026-10-21",
+      "subject": "Physics",
+      "exam": "2026-10-27",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Practice questions",
+      "color": "yellow"
+    },
+    {
+      "id": "2026-10-22-C++",
+      "date": "2026-10-22",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Learn & summarize",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-22-Physics",
+      "date": "2026-10-22",
+      "subject": "Physics",
+      "exam": "2026-10-27",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Learn & summarize",
+      "color": "yellow"
+    },
+    {
+      "id": "2026-10-23-C++",
+      "date": "2026-10-23",
+      "subject": "C++",
+      "exam": "2026-10-23",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Active recall",
+      "color": "blue"
+    },
+    {
+      "id": "2026-10-23-Physics",
+      "date": "2026-10-23",
+      "subject": "Physics",
+      "exam": "2026-10-27",
+      "minutes": 45,
+      "start": "10:00",
+      "end": "10:45",
+      "topic": "Active recall",
+      "color": "yellow"
+    },
+    {
+      "id": "2026-10-24-Physics",
+      "date": "2026-10-24",
+      "subject": "Physics",
+      "exam": "2026-10-27",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Practice questions",
+      "color": "yellow"
+    },
+    {
+      "id": "2026-10-25-Physics",
+      "date": "2026-10-25",
+      "subject": "Physics",
+      "exam": "2026-10-27",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Learn & summarize",
+      "color": "yellow"
+    },
+    {
+      "id": "2026-10-26-Physics",
+      "date": "2026-10-26",
+      "subject": "Physics",
+      "exam": "2026-10-27",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Active recall",
+      "color": "yellow"
+    },
+    {
+      "id": "2026-10-27-Physics",
+      "date": "2026-10-27",
+      "subject": "Physics",
+      "exam": "2026-10-27",
+      "minutes": 45,
+      "start": "09:00",
+      "end": "09:45",
+      "topic": "Practice questions",
+      "color": "yellow"
+    }
+  ],
+  "completed": [],
+  "updated_at": "2026-10-07T10:23:46+05:30"
+}
